@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi, everybody, I'm Kajitsy.
 
-<!--
-**Kajitsy/Kajitsy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm, uh, well, kind of a person who wants to learn coding..... I live in Russia, please don't think of it as a bad thing.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Yeah, I haven't done anything special yet, but I've made some contributions to the following repositories:
+
+- [GUI](https://github.com/Kajitsy/Soul-of-Waifu-GUI) for [Soul of Waifu](https://github.com/jofizcd/Soul-of-Waifu)
+- Russian translation for [Collapse Launcher](https://github.com/CollapseLauncher/Collapse)
+ - I also have my own browser extensions, right now only Firefox... whatever, [Genshin Star Rail CodeEntter](https://github.com/Kajitsy/Genshin-Star-Rail-CodeEntter)
+I'm also just a Genshin Impact player with 59 adventure rank :>
+
+### I also have these social networks:
+
+[![tgru](https://img.shields.io/badge/Telegram-ru-blue.svg)](https://t.me/kajitsylife)
+[![twitchru](https://img.shields.io/badge/Twitch-ru-purple.svg)](https://twitch.tv/kajitsy_)
