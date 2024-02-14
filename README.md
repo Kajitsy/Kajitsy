@@ -8,6 +8,7 @@ I'm, uh, well, kind of a person who wants to learn coding..... I live in Russia,
 - [GUI](https://github.com/Kajitsy/Soul-of-Waifu-GUI) for [Soul of Waifu](https://github.com/jofizcd/Soul-of-Waifu)
 - Russian translation for [Collapse Launcher](https://github.com/CollapseLauncher/Collapse)
  - I also have my own browser extensions, right now only Firefox... whatever, [Genshin Star Rail CodeEntter](https://github.com/Kajitsy/Genshin-Star-Rail-CodeEntter)
+
 I'm also just a Genshin Impact player with 59 adventure rank :>
 
 ### I also have these social networks:
