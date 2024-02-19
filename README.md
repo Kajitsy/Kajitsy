@@ -13,5 +13,5 @@ I'm also just a Genshin Impact player with 59 adventure rank :>
 
 ### I also have these social networks:
 
-[![tgru](https://img.shields.io/badge/Telegram-ru-blue.svg)](https://t.me/kajitsylife)
+[![discordru](https://img.shields.io/badge/Discord-ru-7289da.svg)](https://discord.gg/6UvYzBKCZK)
 [![twitchru](https://img.shields.io/badge/Twitch-ru-purple.svg)](https://twitch.tv/kajitsy_)
