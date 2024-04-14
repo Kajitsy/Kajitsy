@@ -5,7 +5,7 @@ I'm, uh, well, kind of a person who wants to learn coding..... I live in Russia,
 
 ### Yeah, I haven't done anything special yet, but I've made some contributions to the following repositories:
 
-- [Emilia(GUI)/Lite forks](https://github.com/Kajitsy/Soul-of-Waifu-Fork) for [Soul of Waifu](https://github.com/jofizcd/Soul-of-Waifu) 
+- [Fork "Emilia"](https://github.com/Kajitsy/Emilia) for [Soul of Waifu](https://github.com/jofizcd/Soul-of-Waifu) 
 - Russian translation for [Collapse Launcher](https://github.com/CollapseLauncher/Collapse)
  - I also have my own browser extensions, right now only Firefox... whatever, [Genshin Star Rail CodeEntter](https://github.com/Kajitsy/Genshin-Star-Rail-CodeEntter)
 
