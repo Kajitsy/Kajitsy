@@ -15,4 +15,3 @@ I'm also just a Genshin Impact player with 59 adventure rank :>
 
 [![discordru](https://img.shields.io/badge/Discord-ru-515ce8.svg)](https://discord.gg/6UvYzBKCZK)
 [![twitchru](https://img.shields.io/badge/Twitch-ru-9248fd.svg)](https://twitch.tv/kajitsy_)
-@
