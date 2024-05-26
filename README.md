@@ -1,6 +1,5 @@
 # Hi, everybody, I'm Kajitsy.
 
-I'm, uh, well, kind of a person who wants to learn coding..... I live in Russia, please don't think of it as a bad thing.
 
 
 ### Yeah, I haven't done anything special yet, but I've made some contributions to the following repositories:
