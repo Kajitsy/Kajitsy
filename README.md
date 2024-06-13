@@ -8,7 +8,7 @@
 - Russian translation for [Collapse Launcher](https://github.com/CollapseLauncher/Collapse)
 - I also have my own browser extensions, right now only Firefox... whatever, [Genshin Star Rail CodeEntter](https://github.com/Kajitsy/Genshin-Star-Rail-CodeEntter)
 
-I'm also just a Genshin Impact player with 59 adventure rank :>
+I'm also just a Genshin Impact player with 60 adventure rank :>
 
 ### I also have these social networks:
 
