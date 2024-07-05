@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/Kajitsy/Kajitsy/assets/94784342/a06f95a9-901f-40d2-81a9-ec11db062b6a" width="100"/>
+  <img src="https://avatars.githubusercontent.com/u/94784342?v=4" width="100"/>
   <div id="badges">
     <a href="https://twitch.tv/kajitsy_">
       <img src="https://img.shields.io/badge/Twitch-964fff?logo=twitch&logoColor=white&style=for-the-badge" alt="Twitch Badge"/>
