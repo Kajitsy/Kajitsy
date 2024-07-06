@@ -7,6 +7,9 @@
     <a href="https://x.com/kajitsy">
       <img src="https://img.shields.io/badge/X-black?logo=x&logoColor=white&style=for-the-badge" alt="X Badge"/>
     </a>
+    <a href="https://t.me/kajitsyo">
+      <img src="https://img.shields.io/badge/Telegram-2fabea?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
+    </a>
   </div>
   
   ## Hi, I'm Kajitsy (｡･∀･)ﾉﾞ
