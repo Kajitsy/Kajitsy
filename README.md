@@ -1,13 +1,13 @@
 <div id="header" align="center">
   <img src="https://avatars.githubusercontent.com/u/94784342?v=5" width="100"/>
   <div id="badges">
-    <a href="https://twitch.tv/kajitsy_">
+    <a href="https://kajitsy.ru/twitch">
       <img src="https://img.shields.io/badge/Twitch-964fff?logo=twitch&logoColor=white&style=for-the-badge" alt="Twitch Badge"/>
     </a>
     <a href="https://x.com/kajitsy">
       <img src="https://img.shields.io/badge/X-black?logo=x&logoColor=white&style=for-the-badge" alt="X Badge"/>
     </a>
-    <a href="https://t.me/kajitsyo">
+    <a href="https://kajitsy.ru/tg">
       <img src="https://img.shields.io/badge/Telegram-2fabea?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
     </a>
   </div>
