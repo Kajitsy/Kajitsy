@@ -4,7 +4,7 @@
     <a href="https://kajitsy.ru/twitch">
       <img src="https://img.shields.io/badge/Twitch-964fff?logo=twitch&logoColor=white&style=for-the-badge" alt="Twitch Badge"/>
     </a>
-    <a href="https://x.com/kajitsy">
+    <a href="https://kajitsy.ru/x">
       <img src="https://img.shields.io/badge/X-black?logo=x&logoColor=white&style=for-the-badge" alt="X Badge"/>
     </a>
     <a href="https://kajitsy.ru/tg">
