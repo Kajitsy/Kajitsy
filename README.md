@@ -12,7 +12,7 @@
     </a>
   </div>
   
-  ## Hi, I'm Rikyn (｡･∀･)ﾉﾞ
+  ## Hi, I'm Kajitsy (｡･∀･)ﾉﾞ
 </div>     
 
 ### Yeah, I haven't done anything special yet, but I've made some contributions to the following repositories:
