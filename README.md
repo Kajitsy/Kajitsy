@@ -25,6 +25,5 @@
   
 ### GitHub Statistics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kajitsy&theme=transparent&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kajitsy&theme=transparent&hide_border=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kajitsy&theme=transparent&hide_border=true)](https://github.com/Kajitsy?tab=repositories)
 </div>   
