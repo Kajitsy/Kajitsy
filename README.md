@@ -17,7 +17,7 @@
 
 ### Yeah, I haven't done anything special yet, but I've made some contributions to the following repositories:
 
-- [Emilia](https://github.com/Kajitsy/Emilia) - the project is based on [Soul of Waifu](https://github.com/jofizcd/Soul-of-Waifu), but with major changes in design and functionality
+- [Emilia](https://github.com/Kajitsy/Emilia) - Desktop [C.AI](https://character.ai) Client 
 - Russian translation for [Collapse Launcher](https://github.com/CollapseLauncher/Collapse)
 - I also have my own browser extensions, right now only Firefox... whatever, [CodeEntter](https://github.com/Kajitsy/Genshin-Star-Rail-CodeEntter)
 
