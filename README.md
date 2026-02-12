@@ -18,13 +18,13 @@
   
 ### GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kajitsy&theme=transparent&hide_border=true&hide_rank=true&hide=contribs&hide_title=true&text_color=cccccc)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kajitsy&theme=transparent&hide_border=true&layout=compact&hide_title=true&text_color=cccccc)](https://github.com/Kajitsy?tab=repositories)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=kajitsy&theme=transparent&hide_border=true&hide_rank=true&hide=contribs&hide_title=true&text_color=cccccc)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=kajitsy&theme=transparent&hide_border=true&layout=compact&hide_title=true&text_color=cccccc)](https://github.com/Kajitsy?tab=repositories)
 </div>   
 
 <div id="Pin-Repositories" align="center">
   
 ### Pinned Repositories
-[![](https://github-readme-stats.vercel.app/api/pin/?username=kajitsy&repo=Emilia&theme=transparent&hide_border=true&text_color=cccccc)](https://github.com/Kajitsy/Emilia)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=kajitsy&repo=Genshin-Star-Rail-CodeEntter&theme=transparent&hide_border=true&text_color=cccccc)](https://github.com/Kajitsy/Genshin-Star-Rail-CodeEntter)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=kajitsy&repo=Emilia&theme=transparent&hide_border=true&text_color=cccccc)](https://github.com/Kajitsy/Emilia)
+[![](https://github-stats-extended.vercel.app/api/pin/?username=kajitsy&repo=Genshin-Star-Rail-CodeEntter&theme=transparent&hide_border=true&text_color=cccccc)](https://github.com/Kajitsy/Genshin-Star-Rail-CodeEntter)
 </div>
